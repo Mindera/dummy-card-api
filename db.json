@@ -1,0 +1,13 @@
+{
+    "cards": [
+        { "id": 1, "title": "Dummy Title 1", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 2, "title": "Dummy Title 2", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 3, "title": "Dummy Title 3", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 4, "title": "Dummy Title 4", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 5, "title": "Dummy Title 5", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 6, "title": "Dummy Title 6", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 7, "title": "Dummy Title 7", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 8, "title": "Dummy Title 8", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" },
+        { "id": 9, "title": "Dummy Title 9", "text": "lorem ipsum", "author": "capelo", "image_url": "http://lorempixel.com/300/150/" }
+    ]
+}

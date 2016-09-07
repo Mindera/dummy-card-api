@@ -1,0 +1,14 @@
+{
+  "name": "dummy_card_api",
+  "version": "1.0.0",
+  "description": "Dummy API for card content",
+  "main": "index.js",
+  "scripts": {
+    "serve": "./node_modules/.bin/json-server --watch db.json"
+  },
+  "author": "antoniocapelo",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.8.19"
+  }
+}
