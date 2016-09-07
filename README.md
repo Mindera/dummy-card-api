@@ -4,6 +4,7 @@ Simple server exposing *dummy* data for display on cards.
 ## Usage
 Simply run
 
+    npm install
     npm start
 
 and access ``http://127.0.0.1:3000/cards`` to get an array of data.
