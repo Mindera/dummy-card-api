@@ -4,7 +4,7 @@
   "description": "Dummy API for card content",
   "main": "index.js",
   "scripts": {
-    "serve": "./node_modules/.bin/json-server --watch db.json"
+    "start": "./node_modules/.bin/json-server --watch db.json"
   },
   "author": "antoniocapelo",
   "license": "ISC",
